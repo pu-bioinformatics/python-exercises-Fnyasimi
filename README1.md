@@ -4,7 +4,7 @@ The folder `Scripts` contains the scripts for the different assignments for the 
 
 Each individual excercise has its own script and the different scripts are documented here.
 
-##Python scripts
+## Python scripts
 
 All these scripts were written using **Python 3**.
 
