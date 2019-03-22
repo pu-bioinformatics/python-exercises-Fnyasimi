@@ -7,3 +7,7 @@ def gcfunction(dna):
     AT_p = ((dna.count('A') + dna.count('T'))/len(dna) * 100)
     return print("The DNA has a GC percentage of %.3f and AT percentage of %.3f, the length of DNA is %i." \
                     %(GC_p, AT_p, len(dna)))
+
+#CK: This function and the one in exercise06_dna should be combined. 
+# gcfunction should call the dnafunction to check for validity before calculating GC content -2 
+# Also, you need to call the function

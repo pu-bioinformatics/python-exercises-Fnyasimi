@@ -21,4 +21,3 @@ All these scripts were written using **Python 3**.
 * `exercise06_dna.py` is a script containing a defined function. The function `dnafunction()` is used to check if the sequence of interest is DNA or not. The function takes a string DNA as input.
 
 * `exercise06_gc.py` is a script containing a fuction `gcfunction()` which is used to calculate the GC and AT percentage in a DNA sequence. The function takes a string DNA as input.
-

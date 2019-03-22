@@ -23,3 +23,4 @@ rev_comp = [comp[b] for b in revl]
 rev_comp2 = "".join(rev_comp)
 print("""This is the reverse compliment of the above DNA sequence 
 %s""" %rev_comp2)
+## CK: Good work
