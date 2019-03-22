@@ -10,4 +10,4 @@ def gcfunction(dna):
 
 #CK: This function and the one in exercise06_dna should be combined. 
 # gcfunction should call the dnafunction to check for validity before calculating GC content -2 
-# Also, you need to call the function
+# Also, you need to call the function -1
